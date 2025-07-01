@@ -279,7 +279,6 @@ Here,
 `:emoji:` → :rocket:
 
 
-## References
 
 
 
