@@ -1,9 +1,17 @@
 
 # 📖 Markdown Quick Reference
 
-This is a personal note I originally created when I began learning Markdown. It has since evolved into a concise and practical quick reference — especially useful for developers, technical writers, bloggers, and researchers.
+## 💁 Introduction
 
-Written entirely in Markdown. I hope you find it helpful!
+This is a personal note I originally created when I began learning Markdown. It has since evolved into a concise, practical quick-reference — especially useful for developers, technical writers, bloggers, and researchers.
+
+Written entirely in Markdown, it’s part of a series of Quickrefs aimed at making everyday developer/tech-writer workflows easier. You might also find the following helpful:
+
+1. [Git and GitHub Quickref](link to the repo)
+2. [Mac/Linux(ubuntu) Terminal Quickref](link to the repo)  
+
+Feel free to explore — I hope they save you time and make your work smoother!
+⭐️ If you find this useful, consider giving it a star — it helps others discover the project!
 
 ## ❓Why Markdown
 
@@ -66,6 +74,4 @@ You are free to copy, modify, and reuse it in your own projects with attribution
 
 Contributions, feedback, and suggestions are welcome!  
 If you find something useful or want to improve it, feel free to open an issue or submit a PR.
-
-⭐️ If you find this useful, consider giving it a star — it helps others discover the project!
 
