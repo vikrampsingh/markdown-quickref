@@ -1,7 +1,7 @@
 # Markdown Quick Reference
 
 1. [Headings](#headings)
-2. [Text Formatting or Emphasis]
+2. [Text Formatting or Emphasis](#text-formatting-or-emphasis)
 3. [Paragraphs and Line Breaks]
 4. [Horizontal Seperator]
 5. [Blockquote]
@@ -57,9 +57,7 @@ Headings are used to create titles and subtitles. Markdown supports six levels o
 and so on..
 
 <br>
-
 [🔝 Back to Top](#markdown-quick-reference)
-
 <br><br>
 
 ## Text Formatting or Emphasis
@@ -67,58 +65,65 @@ and so on..
 Text Formatting or Emphasis is used to italicize or bold or strikethrough the text. We can use asterisks ( `*` ) or underscores ( `_` ) for italics or bold text and tilde's ( `~` ) for strikethrough. I have used ( `*` ) for bold and itlics in examples below, you can try them using ( `_` ) instead.
 
 ### Italic 
-Put the text between a pair of one asterisk ( `* * `)
+Put the text between a pair of one asterisk ( `* * ` )
 
-*****Syntax*****
+***Syntax***
 ```md
 *this is italicized text*
 ```
 
-*****Renders as***** 
+***Renders as***
 *this is italicized text*
 
----
+<br>
 
 ### Bold
-Put the text between a pair of two asterisks ( `** ** `)
+Put the text between a pair of two asterisks ( `** ** ` )
 
-*****Syntax*****
+***Syntax***
 ```md
 **this is bold text**
 ```
 
-*****Renders as***** 
+***Renders as***
 **this is bold text**
 
----
+<br>
 
 ### Itlicized Bold
-Put the text between a pair of three asterisks ( `*** *** `)
+Put the text between a pair of three asterisks ( `*** *** ` )
 
-*****Syntax*****
+***Syntax***
 ```md
 ***this is itlicized bold text***
 ```
 
-*****Renders as***** 
+***Renders as***
 ***this is itlicized bold text***
 
----
+<br>
 
 ### Strikethrough 
 Put the text between a pair of a tilde's ( `~~  ~~` )
 
-*****Syntax*****
+***Syntax***
 ```md
 ~~this is strikethrough text~~
 ```
 
-*****Renders as***** 
+***Renders as***
 ~~this is strikethrough text~~
 
----
+
+<br>
+[🔝 Back to Top](#markdown-quick-reference)
+<br><br>
 
 ## Paragraphs and Line Breaks
+
+
+
+
 
 
 
