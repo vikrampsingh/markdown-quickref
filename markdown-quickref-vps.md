@@ -60,9 +60,7 @@ and so on..
 
 [🔝 Back to Top](#markdown-quick-reference)
 
-
----
-
+<br><br>
 
 ## Text Formatting or Emphasis
 
