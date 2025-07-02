@@ -956,7 +956,7 @@ Not all Markdown tools are created equal — features like **math equations**, *
 
 
 > ✍️ **Author:** Vikram Pratap Singh\
-> 🔗 [vikramsingh.ai](https://vikramsingh.ai) | [GitHub](https://github.com/vikrampsingh) | [X](https://x.com/vikramsingh0110) | [Linkedin](http://linkedin.com/in/vikrampsingh)
+> [GitHub](https://github.com/vikrampsingh) | [X](https://x.com/vikramsingh0110) | [Linkedin](http://linkedin.com/in/vikrampsingh)
 
 <br>
 

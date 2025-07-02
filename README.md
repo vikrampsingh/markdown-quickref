@@ -39,26 +39,34 @@ This quick reference is designed for:
 
 This quickref covers:
 
-1. Headings
-2. Text Formatting or Emphasis
-3. Paragraphs and Line Breaks
-4. Horizontal Seperator
-5. Blockquote
-6. List
-7. Task Lists
-8. Code 
-9. Links
-10. Images
-11. Tables
-12. Escaping Characters
-13. Emoji
-14. Footnotes
-15. Equations
-16. Diagrams
-17. HTML
-18. GitHub Flavored Markdown (GFM)
-19. Editors and Viewers
-20. Further Resources
+1. Core Markdown / CommonMark Spec
+    1. Headings
+    2. Text Formatting (Emphasis)
+    3. Paragraphs and Line Breaks
+    4. Horizontal Seperator
+    5. Blockquote
+    6. List (Oredered and Unordered)
+    7. Code (inline and block)
+    8. Links
+    9. Images
+    10. Escaping Characters
+    11. HTML
+
+2. GitHub Flavored Markdown (GFM)
+    1. Task Lists
+    2. Tables
+    3. Emoji
+    4. Shields & Badges
+    5. Mentions & References
+
+3. Not Supported in Core Markdown or GFM (Extensions Needed)
+    1. Equations
+    2. Diagrams
+    3. Footnotes
+
+4. Editors and Viewers
+
+5. Further Resources
 
 ## 🚀 How to Use
 
