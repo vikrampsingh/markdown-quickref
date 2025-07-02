@@ -1,7 +1,7 @@
 
-# 📘 Markdown Quick Reference
+# 📖 Markdown Quick Reference
 
-A concise, practical **Markdown** quick-reference for developers, researchers, and writers who work with code, documentation, and technical notes. 
+A concise, practical **Markdown** quick-reference for developers, content writers, bloggers, and researchers.
 
 ---
 
