@@ -1,7 +1,7 @@
 
-# 📖 Markdown Quick Reference
+# Markdown Quick Reference
 
-## 💁 Introduction
+## Introduction
 
 This is a personal note I originally created when I began learning Markdown. It has since evolved into a concise, practical quick-reference — especially useful for developers, technical writers, bloggers, and researchers.
 
@@ -13,7 +13,7 @@ Written entirely in Markdown, it’s part of a series of Quickrefs aimed at maki
 Feel free to explore — I hope they save you time and make your work smoother!
 ⭐️ If you find this useful, consider giving it a star — it helps others discover the project!
 
-## ❓Why Markdown
+## Why Markdown
 
 Markdown is more than just a writing syntax — it's a foundational tool in today's content development workflows:
 
@@ -25,7 +25,7 @@ Markdown is more than just a writing syntax — it's a foundational tool in toda
 - **Toolchain-friendly:** Used in GitHub, VS Code, Obsidian, Jupyter, Docusaurus, Notion, and countless static site generators (Astro, Hugo, MkDocs, etc.)
 - **Future-proof:** As the bridge between human-readable text and machine-consumable structure, Markdown is central to the future of technical communication.
 
-## 🎯 Who’s it for?
+## Who’s it for?
 
 This quick reference is designed for:
 
@@ -35,7 +35,7 @@ This quick reference is designed for:
 - **Writers & bloggers** using Markdown for content, notebooks, or publishing workflows
 - **Anyone** looking to master Markdown, GitHub Flavored Markdown (GFM), or MDX for modern workflows
 
-## 📌 What’s Inside
+## What’s Inside
 
 This quickref covers:
 
@@ -68,18 +68,20 @@ This quickref covers:
 
 5. Further Resources
 
-## 🚀 How to Use
+## How to Use
 
 - Browse [`markdown-quickref.md`](./markdown-quickref-vps.md)
 - Copy-paste examples into your own Markdown files and modify as needed.
 
-## 📜 License
+## License
 
 This Quickref is released under the [MIT License](./LICENSE) © 2025 [Vikram Pratap Singh](https://www.linkedin.com/in/vikrampsingh/)  
 You are free to copy, modify, and reuse it in your own projects with attribution.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, feedback, and suggestions are welcome!  
-If you find something useful or want to improve it, feel free to open an issue or submit a PR.
 
+If you find this project helpful or have ideas to improve it — whether it's fixing a typo, enhancing an explanation, or adding new sections — feel free to [open an issue](https://github.com/vikrampsingh/markdown-quickref/issues) or [submit a pull request](https://github.com/vikrampsingh/markdown-quickref/pulls).
+
+Before contributing, please take a moment to read the [CONTRIBUTING.md](./CONTRIBUTING.md) guide.

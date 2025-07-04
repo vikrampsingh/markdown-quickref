@@ -31,7 +31,7 @@
 
 <br>
 
-# Core Markdown / [CommonMark](https://commonmark.org/) 
+# Core Markdown / [CommonMark Spec](https://commonmark.org/) 
 
 These are supported across almost all Markdown parsers and viewers (including VS Code preview). 
 
@@ -662,6 +662,99 @@ GitHub supports emoji shortcodes:
 [🔝 Back to Top](#markdown-quick-reference)
 <br><br>
 
+## Callouts (Admonitions)
+
+Markdown doesn't natively support callouts, but we can create visually distinct callouts using **blockquotes + emoji**, especially on GitHub and most Markdown renderers.
+
+These are useful for drawing attention to tips, notes, warnings, or important information.
+
+Use `>` to start a blockquote and include an emoji and a **bolded label**.
+
+***Syntax Structure***
+```markdown
+> 💡 **Bold-Text:** This is the message.
+```
+
+### Info
+
+***Syntax***
+```markdown
+> ℹ️ **Info:** This provides extra context or explanation.
+```
+
+***Renders as***
+> ℹ️ **Info:** This provides extra context or explanation.
+
+<br>
+
+### Note
+
+***Syntax***
+```markdown
+> 📝 **Note:** A useful side remark that readers should be aware of.
+```
+
+***Renders as***
+> 📝 **Note:** A useful side remark that readers should be aware of.
+
+<br>
+
+### Tip
+
+***Syntax***
+```markdown
+> 💡 **Tip:** Use keyboard shortcuts like `Cmd+B` for bold in Markdown editors.
+```
+
+***Renders as***
+> 💡 **Tip:** Use keyboard shortcuts like `Cmd+B` for bold in Markdown editors.
+
+<br>
+
+### Warning
+
+***Syntax***
+```markdown
+> ⚠️ **Warning:** Indentation errors may cause lists to render incorrectly.
+```
+
+***Renders as*** 
+> ⚠️ **Warning:** Indentation errors may cause lists to render incorrectly.
+
+<br>
+
+### Important
+
+***Syntax***
+```markdown
+> ❗ **Important:** GitHub doesn't support native LaTeX equations in `.md` files.
+```
+
+***Renders as***
+> ❗ **Important:** GitHub doesn't support native LaTeX equations in `.md` files.
+
+<br>
+
+### Caution
+
+***Syntax***
+```markdown
+> 🚫 **Caution:** Be careful using HTML in Markdown — it may not render everywhere.
+```
+
+***Renders as***
+> 🚫 **Caution:** Be careful using HTML in Markdown — it may not render everywhere.
+
+<br>
+
+💡 **Tip** 
+- Best used in GitHub, Obsidian, or any Markdown viewer that supports emojis
+
+<br>
+
+[🔝 Back to Top](#markdown-quick-reference)
+<br><br>
+
 
 ## Shields & Badges
 
@@ -904,11 +997,11 @@ Not all Markdown tools are created equal — features like **math equations**, *
 
 | Editor       | Description |
 |--------------|-------------|
-| **VS Code** | Highly customizable with live preview, plugins (e.g. Markdown All in One, Mermaid support). Ideal for devs. |
-| **Obsidian** | Note-taking powerhouse with Markdown-first philosophy. Supports math, Mermaid, footnotes, etc. |
-| **Typora** | Clean WYSIWYG editor with real-time rendering of Markdown and LaTeX. |
-| **Zettlr** | Academic-friendly Markdown editor with citation, LaTeX, and PDF export. |
-| **HackMD / CodiMD** | Web-based collaborative Markdown editors with diagram and presentation support. |
+| **[VS Code](https://code.visualstudio.com/)** | Highly customizable with live preview, plugins (e.g. Markdown All in One, Mermaid support). Ideal for devs. |
+| **[Obsidian](https://obsidian.md/)** | Note-taking powerhouse with Markdown-first philosophy. Supports math, Mermaid, footnotes, etc. |
+| **[Typora](https://typora.io/)** | Clean WYSIWYG editor with real-time rendering of Markdown and LaTeX. |
+| **[Zettlr](https://www.zettlr.com/)** | Academic-friendly Markdown editor with citation, LaTeX, and PDF export. |
+| **[HackMD](https://homepage.hackmd.io/) / [CodiMD](https://codimd.web.cern.ch/)** | Web-based collaborative Markdown editors with diagram and presentation support. |
 
 <br>
 
@@ -920,7 +1013,7 @@ Not all Markdown tools are created equal — features like **math equations**, *
 | **Jupyter Notebooks** | Renders Markdown with MathJax for equations. Great for technical documentation. |
 | **Docusaurus** | Markdown-powered static site generator. Supports MDX, math, Mermaid, etc. |
 | **MkDocs (Material)** | Excellent for docs sites. Supports extended Markdown, plugins for math and diagrams. |
-| **Quarto** | Designed for scientific publishing with Markdown + executable code + LaTeX/Math. |
+| **[Quarto](https://quarto.org/)** | Designed for scientific publishing with Markdown + executable code + LaTeX/Math. |
 
 
 💡 General Tip
@@ -946,8 +1039,17 @@ Not all Markdown tools are created equal — features like **math equations**, *
 - [Emojipedia](https://emojipedia.org/)
 - [Obsidian](https://obsidian.md/)
 - [Typora](https://typora.io/)
+- [Markdown and Visual Studio Code](https://code.visualstudio.com/Docs/languages/markdown) 
 - [VS Code Extensions](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Markdown Guide - Tools](https://www.markdownguide.org/tools/)
+- [CodiMD](https://codimd.web.cern.ch) 
+- [Typora](https://support.typora.io/)
+- [Zettlr](https://docs.zettlr.com/en/) 
+- [Pandoc](https://pandoc.org/)
+- [PlantUML](https://plantuml.com/)
+
+
+
 
 <br>
 
