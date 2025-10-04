@@ -7,8 +7,8 @@ This is a personal note I originally created when I began learning Markdown. It 
 
 Written entirely in Markdown, it’s part of a series of Quickrefs aimed at making everyday developer/tech-writer workflows easier. You might also find the following helpful:
 
-1. [Git and GitHub Quickref](link to the repo)
-2. [Mac/Linux(ubuntu) Terminal Quickref](link to the repo)  
+1. [Git and GitHub Quickref](coming soon)
+2. [Mac/Linux(ubuntu) Terminal Quickref](coming soon)  
 
 Feel free to explore — I hope they save you time and make your work smoother!
 ⭐️ If you find this useful, consider giving it a star — it helps others discover the project!
